@@ -1,0 +1,208 @@
+/* Homepage */
+/* ----------------------------------------------------------*/
+
+/*.brand {
+
+}
+
+.home h1 {
+  font-size: 1.75em;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: .32em;
+}
+
+.home p {
+  font-size: 1.2em;
+  margin-bottom: .32em;
+
+}
+
+.background {
+  width: 100%;
+  background-image: url(/images/HomeImage.jpg);
+  background-repeat: no-repeat;
+  padding: 17em 19px 31px
+}
+
+.hero {
+  padding: 15px 21px 11px;
+  text-align: left;
+  max-width: 60%;
+
+}
+
+@media only screen and (max-width: 797px) { 
+  .hero { 
+    padding: none;
+    text-align: left;
+    max-width: 100%;
+  } 
+} 
+
+.hero button {
+  margin: 1.27em;
+}
+
+ul {
+  list-style: none;
+  display: inline-block;
+
+}
+
+.full ul {
+  list-style: none;
+  display: inline-block;
+
+}
+
+.page-content .hero {
+  background-color: rgba(246, 88, 18, .48);
+}
+
+button {
+  padding: 1em;
+  border-radius: .85em;
+  background-color: #65BC01;
+
+}
+
+button:hover {
+  background-color: #F36C30;
+  color: #15322C;
+  text-decoration: underline;
+}
+
+.page-content .secondary {
+  padding-top: 1em ;
+  background-color: #Fff;
+}
+
+.secondary {
+  margin-left: 2.5em;
+  width: 85%;
+}
+
+.secondary h2 {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.secondary p {
+  font-size: 1.1em ;
+}
+
+*/
+
+/* Homepage */
+/* ----------------------------------------------------------*/
+
+.brand {
+
+}
+
+.site-header > .wrap {
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+.site-title > img {
+  float: left;
+  margin-right: 5px;
+}
+
+.home h1 {
+  font-size: 1.75em;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: .32em;
+}
+
+.home p {
+  font-size: 1.2em;
+  margin-bottom: .32em;
+
+}
+
+.background {
+  width: 100%;
+  background-image: url(/images/HomeImage.jpg);
+  background-repeat: no-repeat;
+  padding: 10em 19px 31px;
+  background-size: cover;
+  background-position: 0 0;
+}
+
+.hero {
+  padding: 15px 21px 11px;
+  text-align: left;
+  max-width: 100%;
+
+}
+
+@media only screen and (max-width: 797px) { 
+  .hero { 
+    padding: none;
+    text-align: left;
+    max-width: 100%;
+  } 
+} 
+
+.hero button {
+  margin: 1.27em;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  display: inline-block;
+
+}
+
+.full ul {
+  list-style: none;
+  display: inline-block;
+
+}
+
+.page-content .hero {
+  background-color: rgba(246, 88, 18, .48);
+}
+
+button {
+  padding: 1em;
+  border-radius: .85em;
+  background-color: #65BC01;
+  cursor: pointer;
+  text-transform: uppercase;
+
+}
+
+button:hover {
+  background-color: #F36C30;
+  color: #15322C;
+  /* text-decoration: underline; */
+}
+
+.page-content .secondary {
+  padding-top: 1em ;
+  background-color: #Fff;
+}
+
+.secondary {
+  /* margin-left: 2.5em; */
+  /* width: 85%; */
+  line-height: 1.7;
+  margin-top: 1em;
+}
+
+.secondary h2 {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.secondary p {
+  font-size: 1.1em ;
+}
+

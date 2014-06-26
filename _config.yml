@@ -1,0 +1,12 @@
+# Site settings
+title: HomeLink Training Center
+phone: 216-661-3150
+email: Robert@homelinkhomecare.com
+address: 123 longview way 
+description: "HomeLink Home Care has been in the Home Health Care industry for 18 years. We strive to have the best hands on care and training programs in the industry."
+baseurl: ""
+url: "http://homelinktrainingcenter.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
